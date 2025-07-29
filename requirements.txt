@@ -1,4 +1,5 @@
+
 streamlit
-pytesseract
-Pillow
+requests
 pdf2image
+Pillow
